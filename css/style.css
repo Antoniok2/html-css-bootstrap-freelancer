@@ -1,0 +1,29 @@
+[class*="col-"] {
+    min-height: 50px;
+    background-color: rgb(196, 222, 135);
+    border: 1px solid black;
+}
+
+.navigation_bar {
+    background-color: rgb(59, 67, 110);
+    height: 80px;
+}
+
+.jumbo {
+    background-color: aqua;
+    height: 300px;
+}
+
+.title_main {
+    width: 98%;
+    margin: 10px auto;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+}
+
+.banner {
+    background-color: violet;
+    margin: 10px 0;
+    height: 250px;
+}
