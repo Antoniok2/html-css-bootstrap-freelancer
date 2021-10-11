@@ -37,10 +37,9 @@
 }
 
 /* QUI TROVO IMPOSTAZIONI SECONDA PARTE MAIN */
-.about {
+.about, .contact {
     height: 400px;
     background-color: green;
-    margin: 10px 0;
 }
 
 /* QUI COMINCIA IL FOOTER */
