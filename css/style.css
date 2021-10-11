@@ -4,16 +4,23 @@
     border: 1px solid black;
 }
 
+/* QUI PARTE L'HEADER */
+
+/* IMPOSTAZIONI BARRA DI NAVIGAZIONE INIZIALE */
 .navigation_bar {
     background-color: rgb(59, 67, 110);
     height: 80px;
 }
 
+/* IMPOSTAZIONI JUMBO */
 .jumbo {
     background-color: aqua;
     height: 300px;
 }
 
+/* QUI PARTE IL MAIN */
+
+/* QUI IMPOSTAZIONI TITOLO MAIN */
 .title_main {
     width: 98%;
     margin: 10px auto;
@@ -22,8 +29,27 @@
     text-align: center;
 }
 
+/* QUI TROVO LA PRIMA PARTE MAIN */
 .banner {
     background-color: violet;
     margin: 10px 0;
     height: 250px;
+}
+
+/* QUI TROVO IMPOSTAZIONI SECONDA PARTE MAIN */
+.about {
+    height: 400px;
+    background-color: green;
+    margin: 10px 0;
+}
+
+/* QUI COMINCIA IL FOOTER */
+.footer {
+    background-color: rgb(92, 87, 121);
+    height: 200px;
+}
+
+.footer_1 {
+    background-color: rgb(74, 70, 97);
+    height: 80px;
 }
