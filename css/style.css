@@ -32,8 +32,9 @@
 /* QUI TROVO LA PRIMA PARTE MAIN */
 .banner {
     background-color: violet;
-    margin: 10px 0;
     height: 250px;
+    border-radius: 10px;
+    margin: 10px 0;
 }
 
 /* QUI TROVO IMPOSTAZIONI SECONDA PARTE MAIN */
