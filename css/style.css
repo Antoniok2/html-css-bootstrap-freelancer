@@ -45,7 +45,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 10px 50px;
+    margin: 10px auto;
+    padding: 0 20px;
 }
 
 .line {
