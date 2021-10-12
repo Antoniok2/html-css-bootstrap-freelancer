@@ -8,14 +8,48 @@
 
 /* IMPOSTAZIONI BARRA DI NAVIGAZIONE INIZIALE */
 .navigation_bar {
-    background-color: rgb(59, 67, 110);
-    height: 80px;
+    background-color: #2c3e50;
+    height: auto;
+}
+.bg-light {
+    background-color:#2c3e50 !important;
+}
+.navbar-light .navbar-brand {
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
 }
 
 /* IMPOSTAZIONI JUMBO */
 .jumbo {
-    background-color: aqua;
+    background-color: #1abc9c;
     height: 300px;
+    color: white;
+}
+.avatar {
+    margin: 15px auto;
+    width: 100px;
+    height: 100px;
+}
+.titolo_jumbo {
+    display: flex;
+    justify-content: center;
+}
+.space {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
+.line {
+    width: 80px;
+    height: 2px;
+    margin: 0 20px;
+    background-color: white;
 }
 
 /* QUI PARTE IL MAIN */
@@ -31,7 +65,7 @@
 
 /* QUI TROVO LA PRIMA PARTE MAIN */
 .banner {
-    background-color: violet;
+    background-color: rgb(41, 194, 255);
     height: 250px;
     border-radius: 10px;
     margin: 10px 0;
